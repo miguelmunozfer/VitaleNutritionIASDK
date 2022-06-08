@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
   s.source           = { :git => 'https://github.com/miguelmunozfer/TrainingSDK.git', :tag => "1.0" }
   # s.social_media_url = 'https://twitter.com/mmunozfer'
-  s.resources = 'resources/*/**'
+  # s.resources = 'resources/*/**'
   # s.resource_bundles = {
   #   'NutritionIASDK' => ['resources/*/**']
   # }
