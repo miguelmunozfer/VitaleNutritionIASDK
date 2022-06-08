@@ -1,4 +1,4 @@
-# VitaleSDK
+# NutritionIASDK
 
 [![CI Status](https://img.shields.io/travis/Miguel/VitaleSDK.svg?style=flat)](https://travis-ci.org/Miguel/VitaleSDK)
 [![Version](https://img.shields.io/cocoapods/v/VitaleSDK.svg?style=flat)](https://cocoapods.org/pods/VitaleSDK)
@@ -16,7 +16,7 @@ VitaleSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'NutritionIASDK'
+pod 'NutritionIASDK', :git => 'https://github.com/miguelmunozfer/VitaleNutritionIASDK'
 ```
 
 Add the following lines to the end of the podfile file
@@ -29,8 +29,7 @@ Add the following lines to the end of the podfile file
 Use your credentials for initiating SDK. Your APP_ID must be permanent and unique for each App user (any user id, including the ones you are already using in your system,  can be used).
 
 ```swift
-NutritionSDK.sharedInstance.startSession(appID: APP_ID, password: APP_PASSWORD)
-NutritionSDK.sharedInstance.setCountry(COUNTRY)
+NutritionSDK.sharedInstance.startSession(with: MEMBER_ID, appID: APP_ID, password: APP_PASSWORD)
 
 ```
 
