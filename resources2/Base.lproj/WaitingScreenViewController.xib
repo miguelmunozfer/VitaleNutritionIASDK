@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="WaitingScreenViewController" customModule="NutricionSDKCodeIA" customModuleProvider="target">
+            <connections>
+                <outlet property="button" destination="VzA-20-CKE" id="09x-4q-KGW"/>
+                <outlet property="dotsView" destination="4px-Wn-Wzs" id="2cV-HA-27q"/>
+                <outlet property="imageView" destination="rZ1-nL-wlh" id="vtS-To-dWx"/>
+                <outlet property="textLabel" destination="O9c-uT-K3g" id="5cj-nc-cLa"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MXT-LO-Cww">
+                    <rect key="frame" x="359" y="64" width="35" height="35"/>
+                    <color key="tintColor" systemColor="secondaryLabelColor"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" image="close"/>
+                    <connections>
+                        <action selector="didTapCloseButton" destination="-1" eventType="touchUpInside" id="3Il-dU-vMk"/>
+                    </connections>
+                </button>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="x0x-Wo-Ml1">
+                    <rect key="frame" x="20" y="119" width="374" height="178.5"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" alignment="center" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="PIU-vy-RYg">
+                            <rect key="frame" x="0.0" y="0.0" width="374" height="178.5"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rZ1-nL-wlh">
+                                    <rect key="frame" x="67" y="0.0" width="240" height="128"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O9c-uT-K3g">
+                                    <rect key="frame" x="166.5" y="158" width="41.5" height="20.5"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VzA-20-CKE" customClass="CustomButton" customModule="NutricionSDKCodeIA" customModuleProvider="target">
+                            <rect key="frame" x="0.0" y="0.0" width="374" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="Nkc-Ab-Brt"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="VER MENÚ"/>
+                            <connections>
+                                <action selector="didTapViewMenu" destination="-1" eventType="touchUpInside" id="FoI-wy-990"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                </stackView>
+                <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" distribution="equalSpacing" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="4px-Wn-Wzs">
+                    <rect key="frame" x="20" y="513" width="374" height="200"/>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="x0x-Wo-Ml1" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="1Jn-fy-lkT"/>
+                <constraint firstItem="4px-Wn-Wzs" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="5Ms-fH-FsQ"/>
+                <constraint firstItem="x0x-Wo-Ml1" firstAttribute="top" secondItem="MXT-LO-Cww" secondAttribute="bottom" constant="20" id="6IC-Ne-T0Z"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="4px-Wn-Wzs" secondAttribute="trailing" constant="20" id="FDv-eU-rdX"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="MXT-LO-Cww" secondAttribute="trailing" constant="20" id="Ir5-Hb-2Wo"/>
+                <constraint firstItem="MXT-LO-Cww" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="20" id="v2x-vD-38f"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="4px-Wn-Wzs" secondAttribute="bottom" constant="100" id="vuH-rM-vAg"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="x0x-Wo-Ml1" secondAttribute="trailing" constant="20" id="yJU-l2-x2c"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="91"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="VzA-20-CKE">
+            <size key="intrinsicContentSize" width="89" height="34"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="close" width="35" height="35"/>
+        <systemColor name="secondaryLabelColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
