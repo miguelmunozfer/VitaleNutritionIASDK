@@ -12,7 +12,7 @@ with any third party.
 
 ## Installation
 
-VitaleSDK is available through [CocoaPods](https://cocoapods.org). To install
+NutritionIASDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -20,6 +20,16 @@ pod 'NutritionIASDK', :git => 'https://github.com/miguelmunozfer/VitaleNutrition
 ```
 
 Add the following lines to the end of the podfile file
+
+```ruby
+post_install do |installer|
+installer.pods_project.targets.each do |target|
+target.build_configurations.each do |config|
+config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
+end
+end
+end
+```
 
 
 ## Usage
