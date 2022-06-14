@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionIASDK'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
   s.dependency  'Localize-Swift', '3.2.0'
-  s.dependency  "Hero"
+  # s.dependency  'Hero', '~> 1.6.1'
   s.dependency  'JWTDecode', '~> 2.6'
   s.swift_version = "5.0"
   s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }

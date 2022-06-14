@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bletnM4FunSZBYYnOclJoKPDlCk=
+		jENeNx86hfUarHXrg6Gx7FpWA0A=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		AVLwV6V7u6zwAmLrnFkSQ/MsZzE=
+		3wfJxceP0btUkGFBZalNNJSCrtE=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		voiNhLnjvpckLdJotrmxVLjrcbE=
+		VKvOgv97N/6r8aUhIYuGHOI297g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -227,7 +227,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wV2X5ERLY2OXhkEQGF9tNKoqcVM=
+			UA018d8tODtfz9Ied0G1x3lUs2A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -255,6 +255,15 @@
 			<key>hash</key>
 			<data>
 			H5S98Yz1od4eHE80NOsuwHOeh4E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			78KxYPD9EsHe4TiWgtDy+jplMy4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -448,7 +457,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8yeuajtWAsB6BdMMtvYNHYG+SKATp6/Gh+cYZ0g+ePM=
+			QYdTii7ixx95U7zeGZekM8Fa6VEuj/Sl1SwctEk92Uw=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -623,14 +632,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5T1/W1IAXhSMwD4gOonXFd7xsWoXJQyDIb54SF6wE3U=
+			0w/ZMUvkjCeOJKRpbVuL/6R32wr4937a4dtTnlBP4zw=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iHfXItW7lVLzPKiWj/inaxvXnPGvaeRABeQJDzgZ9q8=
+			tiMXyHU0EpV+2sBYd+HM5uIpGKCgbNBeWi5LA+1AZzI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -797,7 +806,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqyrEGr7ROImYiG+MkdJXKg8KCxGkL0J5oMmN4hpiNQ=
+			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -825,6 +834,15 @@
 			<key>hash2</key>
 			<data>
 			22cTxokpjGO9rBpk6anyFCn5RfVy09CXt+zdGeFVros=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fodE8uTwbXsYiBsiWhpO8eA1BGhFVHyRkjhzPDctz4I=
 			</data>
 			<key>optional</key>
 			<true/>

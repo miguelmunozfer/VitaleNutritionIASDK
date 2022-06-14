@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bletnM4FunSZBYYnOclJoKPDlCk=
+		uApJsZ+ZETPmzrgkLf8XMauZ7GI=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R6l5ehdZdRWxQfGOkju0ff1QDwQ=
+		20gkwAk186K9Zd1qBfLH1zltrmY=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yTiDwrUmQ+0xjxJtCi/XZcGpgPc=
+		Tn6F7Qs0uI5lpNhS+jmMg7e8WQ8=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/QdlysNxypKKLIQKIwVCJDJnt4s=
+		VpSYJIy4cgHfwaVqChysB6UqFiQ=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7txZhNtioJ5Cm8AxlF8M+W2C4xQ=
+		CcHwhw3+stjdUnL15U/L+k5dMmI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -239,7 +239,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wV2X5ERLY2OXhkEQGF9tNKoqcVM=
+			UA018d8tODtfz9Ied0G1x3lUs2A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -267,6 +267,15 @@
 			<key>hash</key>
 			<data>
 			H5S98Yz1od4eHE80NOsuwHOeh4E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			78KxYPD9EsHe4TiWgtDy+jplMy4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -460,7 +469,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8yeuajtWAsB6BdMMtvYNHYG+SKATp6/Gh+cYZ0g+ePM=
+			Sx0MOPzy1L7L7RnPP6/T/rwe1faP5kHyD+r3OT6BN/Q=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -635,14 +644,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lfko03CwRS8XdpXivfaLglngbLf/kwe3nSe8/cP0VA8=
+			ndN18uoYh62QQ3ql1hVw3DQiTvBSx8/b5iSbhq/sU5U=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W/1NoaQQ8jwEop4UtcxIJWUV1AWkepm1S3akITewUmk=
+			wv+trBmTYr2Q16RX0myOz++bngU5QTUgkEP813Ou1Us=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -656,14 +665,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nW8IKHfbWTWQohcy+yLBetfbDyZtIcZzGqQ7hoRoSyQ=
+			dq21drFr5pwnE6mW9jG84c8youZnpBVuosqeTlhpRK4=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A/RZLHxl67YQU/mft43scJvfuCrLeK4DF68iHIBCL4Q=
+			Xlsg1Y6ZixyD8GZSiWx0hQ3AIgs5a3larzsngYlrUfg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -830,7 +839,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqyrEGr7ROImYiG+MkdJXKg8KCxGkL0J5oMmN4hpiNQ=
+			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -858,6 +867,15 @@
 			<key>hash2</key>
 			<data>
 			22cTxokpjGO9rBpk6anyFCn5RfVy09CXt+zdGeFVros=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fodE8uTwbXsYiBsiWhpO8eA1BGhFVHyRkjhzPDctz4I=
 			</data>
 			<key>optional</key>
 			<true/>
