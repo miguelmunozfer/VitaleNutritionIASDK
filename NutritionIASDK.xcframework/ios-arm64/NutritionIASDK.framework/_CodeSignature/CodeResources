@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		jENeNx86hfUarHXrg6Gx7FpWA0A=
+		Gx2HLDLsAFS4biV9nD/RWFnGiuc=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -80,10 +80,6 @@
 		<data>
 		0KiPVortH1dLKZf3erwfbKPNN2c=
 		</data>
-		<key>Headers/NutritionSDKIA.h</key>
-		<data>
-		P867a0PoDKsPvCf8IRPsWRSkXE8=
-		</data>
 		<key>HealthAlertViewController.nib</key>
 		<data>
 		HB7IjbjfCYYO3LiNfiGfcLKKzH0=
@@ -114,11 +110,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		3wfJxceP0btUkGFBZalNNJSCrtE=
+		+q2nyAlmQoNmeMiBZ8vAZt2BNcg=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VKvOgv97N/6r8aUhIYuGHOI297g=
+		NuVaNIGDmQiLuNsmkhrvbIgm0cw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -457,7 +453,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QYdTii7ixx95U7zeGZekM8Fa6VEuj/Sl1SwctEk92Uw=
+			S47SZKNIsJlaMh/BaR9wyfCR6hkPThWZxEsw74nj6ig=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -579,13 +575,6 @@
 			uq/QOKJewSWfuS3LpLC7O1HPTn+R+ooQaTnyYxbUt8A=
 			</data>
 		</dict>
-		<key>Headers/NutritionSDKIA.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jshY+Zz8zjLgUjrsgaxutC3WcLL8HdWsEXhZ35ypBwk=
-			</data>
-		</dict>
 		<key>HealthAlertViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -632,14 +621,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0w/ZMUvkjCeOJKRpbVuL/6R32wr4937a4dtTnlBP4zw=
+			kknFTCNxySdNscZyEI+ZH036M4N+zhyONLA005zMBg0=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tiMXyHU0EpV+2sBYd+HM5uIpGKCgbNBeWi5LA+1AZzI=
+			glA50R87SFuZ55FHMH+TxiU71KQ37GmzwNcCuWNLT4o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
