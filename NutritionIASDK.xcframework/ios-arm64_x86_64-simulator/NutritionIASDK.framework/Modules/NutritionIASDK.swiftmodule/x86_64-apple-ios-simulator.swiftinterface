@@ -1,7 +1,8 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target x86_64-apple-ios11.3-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NutritionIASDK
 import Foundation
+import Hero
 import JWTDecode
 import Localize_Swift
 import Swift
@@ -26,6 +27,15 @@ public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable 
     get
   }
   public var rawValue: Swift.String {
+    get
+  }
+}
+public enum DietType : Swift.Int {
+  case standard
+  case diabetes
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
     get
   }
 }
@@ -79,14 +89,17 @@ extension UIKit.UIFont {
 @_hasMissingDesignatedInitializers public class NutritionSDK {
   public static let sharedInstance: NutritionIASDK.NutritionSDK
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
+  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int)
   public func setMemberId(_ memberId: Swift.String)
   public func hasIntermittentFasting() -> Swift.Bool
   public func getIntermittentFastingPhase() -> Swift.String
   public func isDoingIntermittentFasting() -> Swift.Bool
   public func setCountry(_ country: NutritionIASDK.NutritionUserCountry)
+  public func setShortProfile(_ isShortProfile: Swift.Bool)
   public func setPremiumAlertText(text: Swift.String?, buttonTitle: Swift.String?, action: (() -> Swift.Void)?)
   public func isPremiumUser(_ isPremium: Swift.Bool)
   public func preferLargeTitlte(_ preferLarge: Swift.Bool)
+  public func setDietType(diet: NutritionIASDK.DietType)
   public func startSession(appID: Swift.String, password: Swift.String)
   public func logout()
   public func setMainColor(color: Swift.String)
@@ -94,9 +107,11 @@ extension UIKit.UIFont {
   public func showProfile()
   public func getTodayMenu(_ completion: @escaping ((NutritionIASDK.NutritionDay?) -> ()))
   public func getAyunoController(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getAyunoPhaseInfo(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
   public func getTodayMenu() -> NutritionIASDK.NutritionDay?
   public func showTodayIntake(_ intakeNumber: Swift.Int)
   public func getNutritionModule(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getWeekMenu(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
   public func getNutritionProfile(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
   public func getNumberOfIntakes(_ completion: @escaping ((Swift.Int) -> ()))
   public func setLanguage(_ language: NutritionIASDK.NutritionLanguage)
@@ -105,6 +120,9 @@ extension UIKit.UIFont {
 extension NutritionIASDK.NutritionLanguage : Swift.Equatable {}
 extension NutritionIASDK.NutritionLanguage : Swift.Hashable {}
 extension NutritionIASDK.NutritionLanguage : Swift.RawRepresentable {}
+extension NutritionIASDK.DietType : Swift.Equatable {}
+extension NutritionIASDK.DietType : Swift.Hashable {}
+extension NutritionIASDK.DietType : Swift.RawRepresentable {}
 extension NutritionIASDK.NutritionUserCountry : Swift.Equatable {}
 extension NutritionIASDK.NutritionUserCountry : Swift.Hashable {}
 extension NutritionIASDK.NutritionUserCountry : Swift.RawRepresentable {}

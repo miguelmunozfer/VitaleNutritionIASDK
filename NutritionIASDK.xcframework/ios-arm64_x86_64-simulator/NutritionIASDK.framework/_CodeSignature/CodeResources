@@ -6,43 +6,43 @@
 	<dict>
 		<key>AlertItemView.nib</key>
 		<data>
-		i1MhFL39fkKUJMRS7kdP0T4rXA0=
+		C0GK637ylTDgSKXnYHoFM0KlxsE=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Gx2HLDLsAFS4biV9nD/RWFnGiuc=
+		EGC7cl/mrZGec2Y+mtY1GL3ZCXE=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
-		Pvh5uiPzuNv1hpgT30qiy9TwViI=
+		Lyk2rhtpO3svNSxtRHnyygaF+hY=
 		</data>
 		<key>AyunoTimerSmallView.nib</key>
 		<data>
-		KhSdbxuu8HPgB5hlJgXQRyTV2aI=
+		cGJRFb8tmpDgerb6e0zhfDhqzSA=
 		</data>
 		<key>AyunoTimerView.nib</key>
 		<data>
-		qeUaxuKMoMDPgkAwLlLyyChi9VQ=
+		UYKixFtguwgNS3XMg0ol3fF7XZo=
 		</data>
 		<key>AyunoViewController.nib</key>
 		<data>
-		wI46+huSJjayke0EU9jqgvgvR+Y=
+		jcZ1BolcWUS4DVv4r4yRou9ZnPs=
 		</data>
 		<key>Base.lproj/IntakePreviewViewController.nib</key>
 		<data>
-		Kc3pg9aEIzA8ezoKwlEJAIl9D1Q=
+		Bdz0/a6dHWiZMu2/ycjScBP2mF4=
 		</data>
 		<key>Base.lproj/NutricionRecetaViewController.nib</key>
 		<data>
-		k2a8BohFQp9YMUvDX48+lFF5MFw=
+		ymEhnQtNGY0sc+5bRxaKxa6u8aU=
 		</data>
 		<key>Base.lproj/NutritionProfileViewController.nib</key>
 		<data>
-		1vVXFIhrCukYxDrJP0I+5rIqylU=
+		hAjxr3JzKM+lkAHCdJMLQiTUMcY=
 		</data>
 		<key>Base.lproj/WaitingScreenViewController.nib</key>
 		<data>
-		8fIFLXEqHU/fCHaSRye6fSVuEQQ=
+		bam01QLqXunpJNkczxKKFimhhjM=
 		</data>
 		<key>Base.lproj/activity_info.json</key>
 		<data>
@@ -70,19 +70,19 @@
 		</data>
 		<key>DishTableViewCell.nib</key>
 		<data>
-		h1apvZWzewIjDmDks9RyZY+0dds=
+		GeWhOfnIasuvalh99K7spyLg0U4=
 		</data>
 		<key>FavoriteView.nib</key>
 		<data>
-		QVQdvN70QaSeH9onPZMSB1OV5Dc=
+		z7bUL/aeofdCs8IuyiiWd6SBPCg=
 		</data>
 		<key>Headers/NutritionIASDK-Swift.h</key>
 		<data>
-		S0RfHZhIKAxULbDxz3v8Y4foag8=
+		qZPdgG/LJYqk/9TU6x5u0X21KWc=
 		</data>
 		<key>HealthAlertViewController.nib</key>
 		<data>
-		HB7IjbjfCYYO3LiNfiGfcLKKzH0=
+		WTuwPS0gurMss+sJ3SiPQknXk0c=
 		</data>
 		<key>HealthFormPageViewController.nib</key>
 		<data>
@@ -90,43 +90,43 @@
 		</data>
 		<key>HealthQuestionView.nib</key>
 		<data>
-		00hYdgdYzo2s0cSW2h4Hp57TzA8=
+		/4VQB75+31QJjc/vJ3+kyuA75LQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+BjVMQYgCjCN9UZutNAm3d4Az0k=
+		HMnMhCgCZ0N9A3WXOLFlGR/MoDc=
 		</data>
 		<key>IntakeNumberViewController.nib</key>
 		<data>
-		lXxikwrzI+ZqwStDWdToDeqnge0=
+		B9M8lxEzbUEki8F+L1/cVxWwU5I=
 		</data>
 		<key>IntakeViewController.nib</key>
 		<data>
-		gRNT0SPgYSaTczSBRdwluZetFCA=
+		Khskn0YrwFw0aNuCDkR3Dn9eZn0=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vFE2biHn42N3iDjp2txqtspkSDw=
+		JCjHEyNWVoAJRXD28YXrEld4rd8=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qet9WMppf8Cs4kZFZt8kSvj6ofM=
+		OBNAQZA87mZd2WYnOfpKMFn13Vk=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/6RLe6QQjpkQekO6FXIntEhu0AU=
+		XoI+KSIUoq9ALuRWaJLQbCzgs58=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		KpX7jKiZ67IKcnRIXPO1NaOMwTk=
+		gNeWqgmkskSkMZdQ1mv55bANH1g=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		15P1ekb4frpttRP8aOXBKkne8dg=
+		ei8f0mEjvVXl9vn/bSSleL9foD8=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G66bM4xHQL/x08M8Zdr4cKQxPJI=
+		v0pb8E39Q/oFjkC9bWjF0O73M44=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>NutricionDayView.nib</key>
 		<data>
-		LgQKufQ9hx7/nG9CvIdZZORCfp4=
+		G42jqf8hCN22gc1U6aPj/YmLvKM=
 		</data>
 		<key>NutricionFavoritesViewController.nib</key>
 		<data>
@@ -146,19 +146,19 @@
 		</data>
 		<key>NutritionFavoriteDishCell.nib/objects-12.3+.nib</key>
 		<data>
-		HQMKTT2nj9Xegqp1GZsdXyq/2/U=
+		In/fCcmIxzyR3wTCPyvOvBLOvJ8=
 		</data>
 		<key>NutritionFavoriteDishCell.nib/runtime.nib</key>
 		<data>
-		nsGwCZP/xYh5GkqlbF1/I6c+zWQ=
+		fz1c2ZG29BG4uF8653Ljo4E4XRw=
 		</data>
 		<key>NutritionWhenView.nib</key>
 		<data>
-		DtaFEat1Qnj4HwXrbUQ+dj5G4o0=
+		aXtpWtNk2KOvk51LYxDrxJNfsJU=
 		</data>
 		<key>PhaseAlertViewController.nib</key>
 		<data>
-		+jhGpy6XiMOozDjdZQGMfxJiUF4=
+		mBMJ+g9IB2tkWt8W24CwQQAf0oA=
 		</data>
 		<key>PieChartView.nib</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>ProfileAlertInfoViewController.nib</key>
 		<data>
-		CNfw+u/67Q9e+8Cga3527+P47Hg=
+		DY/U92Fyi7hCuF1Z2ZR022sYStU=
 		</data>
 		<key>ProfilePageViewController.nib</key>
 		<data>
@@ -182,23 +182,23 @@
 		</data>
 		<key>QuestionView.nib</key>
 		<data>
-		u4jz/LbkeoADTILmBzqNWNX1ZBc=
+		ByhrmysaYqs5xXwxderaOjhccVk=
 		</data>
 		<key>QuestionaryAnswerView.nib</key>
 		<data>
-		qLYKfzUkZNTCnigxnVULc35BUJI=
+		Rp2urubGoMIFrZTGFdXE3qHwYV4=
 		</data>
 		<key>QuestionaryCell.nib</key>
 		<data>
-		uRR3JVoaFgeGzB1sLvKbGqGLC+M=
+		AvguoxP1zcKqWRmB4ifTB+PeWaY=
 		</data>
 		<key>RecetaCell.nib/objects-12.3+.nib</key>
 		<data>
-		fMkY0BfY0bxqFTTDahjhH5POti4=
+		6jLJnG26EQoAYVaTn0IEMeHRJCo=
 		</data>
 		<key>RecetaCell.nib/runtime.nib</key>
 		<data>
-		DazOJ+oJsRc3l9fXlG9JESsARE0=
+		Hf8LkqblEisdKdHgg5Y+K8U0AzE=
 		</data>
 		<key>diabetesProfile1 copy.json</key>
 		<data>
@@ -458,70 +458,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z+Nzg7pS0DvGerA4SZW7M7jdMuNFuOkVqr8DUmwwafk=
+			p0ZsQ8sHYzMWciRrQ39c2eawUic/YSa3UkTgANYg7rY=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S47SZKNIsJlaMh/BaR9wyfCR6hkPThWZxEsw74nj6ig=
+			3xqY4syExKSO3rfBSEAMDIUyys94BkqfLdllI+wqNK0=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/tc4ic2p4ZFqTOqjrPHJm3zGAZzI9HkB9IHNH6IuilQ=
+			xEcaXOWZUmiPnNFMa5cjt1I6ZB3FEOPZ+lQD3PFES3I=
 			</data>
 		</dict>
 		<key>AyunoTimerSmallView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			whHyZja8QlcOzpbLwY92VMlSIsWff8UOb6ASXopSrvM=
+			36+FCv9L7/6T1XUZ21fiUsbh17YKK0IkWeqZjbZ/dWU=
 			</data>
 		</dict>
 		<key>AyunoTimerView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aqRqQ51V8qpjSTMwE502ws/KVUeu8OcDT0LsQHmowhE=
+			GOUGZ62GeHLGULU3nKVXKRAOE/8II7WWUsF7uq3dmNo=
 			</data>
 		</dict>
 		<key>AyunoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vuYSeBxRcm10Aff/MmCsyVQik5cC6ozvE3pTbnSkyTc=
+			OJi76NCz1JWb0I6maCInhFq/X4hSdR+FGC7GFEQjmWU=
 			</data>
 		</dict>
 		<key>Base.lproj/IntakePreviewViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1cYIkgGaVoZipRjkXuQQ2mDCL4BrYGSeW09g49+y0Ig=
+			kqVUBxbPrzl8guF1WUl/Quqdozpa5fzmmZG8PhXn45g=
 			</data>
 		</dict>
 		<key>Base.lproj/NutricionRecetaViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mt4/aps0qxkfEICCEWC9U1ru7Wf7qpoPx0vO75eAOW8=
+			E6T9l6ckbgsbMGFqE7b2Gpj2ilE0zRmRkelgpWF0fBk=
 			</data>
 		</dict>
 		<key>Base.lproj/NutritionProfileViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+2KlI4LI+ZQ9CZTlgH+2wxGns4TGLQosZ2DNFfGKxjM=
+			po0O6vtTxR3XYo4lEJ/mLQKFjt1er+4WCQRUv+nfxHU=
 			</data>
 		</dict>
 		<key>Base.lproj/WaitingScreenViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LrWROJpA7InxFc4hd532997exTJtMxDUz1yN/Gna3/k=
+			6szD+9KCCk0SW1MNYbSBplqlEN72YxSIU0JTlmsO+zY=
 			</data>
 		</dict>
 		<key>Base.lproj/activity_info.json</key>
@@ -570,28 +570,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bW34dCTbipsG2sMGve8Nd8hx98S7e0njspMNeGyniq0=
+			4NaIReWDqnFPVwoFlvlhpbfOK6hWrpBcX0dtkh87ih8=
 			</data>
 		</dict>
 		<key>FavoriteView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YdAFBkPrfkeH8pLQvKftRuEnXvLCphHRYVNE2YM6Was=
+			v0OiVz+dDf923oiJRO8+LxDJAmwNz2PAT5WE7SA3uuc=
 			</data>
 		</dict>
 		<key>Headers/NutritionIASDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			46kF76LpS2cNiNoHKeWPGo0fXeAsVzBk/3C15pIxbkk=
+			Sx6u/z53dplLVDMHmrhiOOYFZzw06bgGCLbzK6zZIFY=
 			</data>
 		</dict>
 		<key>HealthAlertViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			88QKq2gd+MtNjX1GNUX0l4JFCUwMLlrBS89NlXOS1+s=
+			7u8oK9EZjbEBcSQRkHxs1dxc13BiMoML+Vd6SxbiDts=
 			</data>
 		</dict>
 		<key>HealthFormPageViewController.nib</key>
@@ -605,63 +605,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSm+bQ3z8Ed3IXMuRlNNtScfSGPNiXFbMJkG8uNj7Zg=
+			raKroMoAHihJ/CifA70+DFzH+i1kQYdzcrJ0x1/DCJs=
 			</data>
 		</dict>
 		<key>IntakeNumberViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4+jr+nTq956LIOrXv7K1X58Bp8fR73SfoFoGdn7uHMc=
+			322Vfp8Ocz0gr8oyM3xjH5g3Kzk8vxyfDhWXpa3UpfM=
 			</data>
 		</dict>
 		<key>IntakeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FmgVcZUPeqmeeuGnYZwed2ET8QAHvvYlEiPq12OUxOA=
+			lwrLVmVUfkB1iQUY3H1c5bgk+CAw0vx4B15CS2zG48o=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OPJu3AAzM3XOdWKNCBomHr8azHljvA1KWkgnVUWXwdk=
+			uO0BGg4h70Gyp3TdEpV+p0u79qBl5TGvmbIA900+WC8=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcNTngh+gbG+BbxXUOXqOZonNgcQEbTHWoj/ynouk3s=
+			hSGNZ9ZVkrM7zxbsXWJ/3SdOY9TKa5GsALggKiOrUYE=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIElhqKCoXbufWVCHVM4DZ7Li69JP4CHOoMiP96aps8=
+			+WvHzRnO3q65txzcLVNcHXLfSL40LLjqKoD+Vei6v40=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f730Vz3wCW51PvQGxyfODgW6bMoUeL3Gq+BX5rCupS8=
+			e8wp/AjqY+DULSDxUCDPHLirJJRLvTC6s5BYSUNw/IQ=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c7PPMUnwY4XAp+xgORHdQLe3JAI7Itu1xRrsvsaVb6U=
+			P3NV+6kdaHrs0QmebBVlvvqwfRVxxYr9wMf19CC9xBg=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uZHMpok/Rqnk95wn/IsZ5W4P+c3ZP6m6z9zFRDoOKgk=
+			ndUK7/p6p1JCq8X7+/Qs+Q3oUNlRZ9qJ+Z5rkBri7XY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -675,7 +675,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qRxq8TtuULk8n7Dtaw/N5mj2N6ls9J4zjrTOBbHYrUs=
+			H++XNp2bOEjXSNkzBe5Yxj+HTkwKPO3YMoD8O69o9DA=
 			</data>
 		</dict>
 		<key>NutricionFavoritesViewController.nib</key>
@@ -696,28 +696,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L0lsbySmPyCtc4cj3T562jegY950nY6z94b7Z2eMfbs=
+			ohWDlAxMVP25YKV8KPV78gvz79SfauXU0+NCNKkNT48=
 			</data>
 		</dict>
 		<key>NutritionFavoriteDishCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7F3hEUaXb8S4pgrqUi+CIvr7gz3NjoeIHWvizRJ1xc=
+			TWJp6U859tNFhW0q5V40wxMZ/TK1HG1JpQXXfj9Dy/M=
 			</data>
 		</dict>
 		<key>NutritionWhenView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			owU7fb5Kolfzgm5uv/a4hQ4xNiB2Idscfl4Co9rlbkA=
+			C8W6h/qW0CDNKgsMFHEPayE7ap4vm2Asr+XFlUO6X3c=
 			</data>
 		</dict>
 		<key>PhaseAlertViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xunn4nnOimIN0iXJRhLf3/uRfRmlwvvZv2xWfRSrBb4=
+			1N0vDieSwCUyYEkYhiuhar649N9Jd1gCgYKNEhvXSiw=
 			</data>
 		</dict>
 		<key>PieChartView.nib</key>
@@ -731,7 +731,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g4JRIv3REetejyFZ49YJCNEdFC7UZUzrdsrhhsmRuZU=
+			GnX+8uYQGdxvX8v1cpGfjSigIV/+IzfZ2SKvBRtsr1g=
 			</data>
 		</dict>
 		<key>ProfilePageViewController.nib</key>
@@ -759,35 +759,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FF3i2aBIz6eqNeiHuOXcjfTLjxMoKyzgqJWswDkACkk=
+			eMgW/Agwu06wwSpXMHsbeUSfI55wOLYVqF3PXXMR2aE=
 			</data>
 		</dict>
 		<key>QuestionaryAnswerView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uRGMremvj8MrnlYcw2rgXJSFNLETxhrpYtohFRJuCM=
+			NZVfNlt+AAogVbomIdlQr1F3uEoqkozYexvQMHCHsfs=
 			</data>
 		</dict>
 		<key>QuestionaryCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sSU+QX717kB5TSFw/kaiND6XlJJuNvkwafpQO4NUfA0=
+			BYVgrQbwmnsiAeAuWIk1WCUL0SjvOwz8dDNxIDGgjEI=
 			</data>
 		</dict>
 		<key>RecetaCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o9j4mpOtz4z/GS+XeZXPgjTFIgc6i8HfGOjxNP+Tkpk=
+			LWdHEyv9zEZ9J1GB0F+x1HEYxzc80G2Xl8BAxFqKI8Q=
 			</data>
 		</dict>
 		<key>RecetaCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yQ37Qzx+VXvR/HiV8ZdLbEoV+Sqn1ueQEu6ODnOSiuA=
+			nDksPC8rCdOXwQ+gYJakZOQx4U4YkBCafb7CoDR0Eps=
 			</data>
 		</dict>
 		<key>diabetesProfile1 copy.json</key>
