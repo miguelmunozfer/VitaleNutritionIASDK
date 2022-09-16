@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		EGC7cl/mrZGec2Y+mtY1GL3ZCXE=
+		8zxWoES2tACE4ZPcbATSlI2pjak=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -96,10 +96,6 @@
 		<data>
 		HMnMhCgCZ0N9A3WXOLFlGR/MoDc=
 		</data>
-		<key>IntakeNumberViewController.nib</key>
-		<data>
-		B9M8lxEzbUEki8F+L1/cVxWwU5I=
-		</data>
 		<key>IntakeViewController.nib</key>
 		<data>
 		Khskn0YrwFw0aNuCDkR3Dn9eZn0=
@@ -110,11 +106,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OBNAQZA87mZd2WYnOfpKMFn13Vk=
+		W5u6iUQcqD6HCAXtCbFrPFegKnA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XoI+KSIUoq9ALuRWaJLQbCzgs58=
+		jsAhf44DWryJVqvN9vO0rWr0d+s=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +118,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ei8f0mEjvVXl9vn/bSSleL9foD8=
+		Y/QYWsjFCYTgV1MCnDHFC1w4i30=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v0pb8E39Q/oFjkC9bWjF0O73M44=
+		+biUZUV9jbI9YHOqVm24P4ZMBZw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -135,10 +131,6 @@
 		<key>NutricionDayView.nib</key>
 		<data>
 		G42jqf8hCN22gc1U6aPj/YmLvKM=
-		</data>
-		<key>NutricionFavoritesViewController.nib</key>
-		<data>
-		e0Y9RxMoZtVW8iA3FPrYOVQSH2s=
 		</data>
 		<key>NutricionHomeViewController.nib</key>
 		<data>
@@ -222,6 +214,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wV2X5ERLY2OXhkEQGF9tNKoqcVM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -285,6 +286,42 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/AyunoPhaseView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PHKhYI+kqdfYIfQUBuPqH6vMnjI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hFDKp+zv0SN2bNtu/iiswS6EG4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VzziWVYFzv408tDDDHbUM2J/h9M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ryKYFknj06ljhkAHQY9pDItQZMg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -303,6 +340,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wibGaY9cwRvfva2XHRK8TfsSMtY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -316,7 +362,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			375juTgsrEAyFsjmZKE21y5DryI=
+			c7WWwTVYEU6hvrEuyvPwilb/Hgo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -366,6 +412,42 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/AyunoPhaseView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PHKhYI+kqdfYIfQUBuPqH6vMnjI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FUiW1iDUwxguqnOvHSX+Jx3gjSE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ag0FoaHE5NL0WG4WzZJtrMNQFRU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bNRmQwtfVfgVsCWVJDMSiiZALoI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -384,6 +466,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wf0oTq4EOKFmDbeAa8G/63CVjus=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -397,7 +488,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N1e0IJBh8HuRVHVpohxPKM4KN3I=
+			hLgbqRiiw5/TgJh61nfGXghO2RM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -433,7 +524,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R3ZNTP1YkqJBmmoo4tnc4YKDaI4=
+			SKI5kt7Xbwz5GXxcLSYgZCLmyUE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -443,6 +534,96 @@
 			<key>hash</key>
 			<data>
 			EXiwmY0aWi51G1S4gJhmGbmV1Iw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/IntakePreviewViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gpc2dRC39ORzHyA0Zo3zw79MCk0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutricionRecetaViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f3J5MFBfqWHMj1oiB0Dhs7aNRTQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wf0oTq4EOKFmDbeAa8G/63CVjus=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionProfileViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R3BpYlStPevHkZCV7pL7n4JaiF0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionStrings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLgbqRiiw5/TgJh61nfGXghO2RM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/WaitingScreenViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wKr8Cpa3Mu4H0vS1PMliEh0H/wY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/activity_info.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oCsySpGR2UMICkU2y7/uNMwxSLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/diabetesProfile1.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ipOLgQPt2G8xA4QCDwP90H3nsAg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SKI5kt7Xbwz5GXxcLSYgZCLmyUE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/wait_screens.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8tBNC9on1sp/OxUJq1qZJO0hD3w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -465,7 +646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3xqY4syExKSO3rfBSEAMDIUyys94BkqfLdllI+wqNK0=
+			VB4qfRPBygDhbcRLnjdZ5v8EuHTr2d2ggu7YHBusk3Y=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -608,13 +789,6 @@
 			raKroMoAHihJ/CifA70+DFzH+i1kQYdzcrJ0x1/DCJs=
 			</data>
 		</dict>
-		<key>IntakeNumberViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			322Vfp8Ocz0gr8oyM3xjH5g3Kzk8vxyfDhWXpa3UpfM=
-			</data>
-		</dict>
 		<key>IntakeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -633,14 +807,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSGNZ9ZVkrM7zxbsXWJ/3SdOY9TKa5GsALggKiOrUYE=
+			eK2R1OjLvNLaNCJOHsJxvpKqDlzWJs1yKGmgssaw9wM=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WvHzRnO3q65txzcLVNcHXLfSL40LLjqKoD+Vei6v40=
+			vNxo5dMB3DIPC/mZLYbdKzP6c2slHAeWp6Y47r5qu+E=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -654,14 +828,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3NV+6kdaHrs0QmebBVlvvqwfRVxxYr9wMf19CC9xBg=
+			7F3g/EAM/4GZlwJxeVjXW86sQxbWtdfg1lOEmYaLwjI=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ndUK7/p6p1JCq8X7+/Qs+Q3oUNlRZ9qJ+Z5rkBri7XY=
+			EXAYEnJKtk4skfc/ct2YO0qZJM+jZdGd8p3cVgMA3dE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -676,13 +850,6 @@
 			<key>hash2</key>
 			<data>
 			H++XNp2bOEjXSNkzBe5Yxj+HTkwKPO3YMoD8O69o9DA=
-			</data>
-		</dict>
-		<key>NutricionFavoritesViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1ET2RhOc6trQ97gC7GYbroi0xpF8CUN0tX5N0yamBHQ=
 			</data>
 		</dict>
 		<key>NutricionHomeViewController.nib</key>
@@ -815,6 +982,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wqyrEGr7ROImYiG+MkdJXKg8KCxGkL0J5oMmN4hpiNQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -878,6 +1054,42 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/AyunoPhaseView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WOalxhVNHWkSKAVsW082pPwB7htGManjkKzQbyk+96k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZcxEsQe+XNp9UY7OXvzfF1uOO5z+wo7KflDXX2rQJYA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LsdRFbZOayOlAx7jID4IOC90AVil+2gssCqjLUxm9hA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KRm5BrwAG8PpZ8K0ngKA2MGuZSTCvOWoo39CWMe/zpQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -896,6 +1108,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TdXmQa+LgYHRRxJUTfw4tHalpec/IuGGmGYgb/js06E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -909,7 +1130,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e6jF6UEKjmYJtm/sAbyTPWPdXUDoMoy+xQ8tjhyW3X8=
+			dIKUeYBSpIAhc+cgGwXfsM7pjB77Q7JauogEoS1qV2g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -959,6 +1180,42 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/AyunoPhaseView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WOalxhVNHWkSKAVsW082pPwB7htGManjkKzQbyk+96k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OvhhP8w2CLSFfWj1WYEpGA9/WKMNaqzDVLBZYNxqMGM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/toEUDNJMJmBGQ3bdT6IsUVQ17cwAAKE1+Ld6NH87Wg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Gdh7Ha/GACvf3QkDqj86exJxi2VAt5dSpR6WxBiuRc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -977,6 +1234,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MGoajLeU5K6blqhVLyarMqjjvhMDAfy2oyHxlka/XdE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/NutritionProfileViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -990,7 +1256,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BrZGYTdRE2y1tJqJf/X6/LCTpfm8y7jxLKX1eARFnQI=
+			wg35a+zNeXJXOEiya5ptYT/DItPOY0Wu+fsBXL+hKL8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1026,7 +1292,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZnMi2CqLbs8zbCVlZ1+aIQFWbmHcqoRqCa5+kapPWs=
+			PLMeQ3WJ0sXlb3DHb8LkfvaxNGbXrmWjXjwOxF6oQeA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1036,6 +1302,96 @@
 			<key>hash2</key>
 			<data>
 			HZQbJaqkTd99Skj2GNv+x9t+1P/flox+KJMXVenvGuQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/IntakePreviewViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZZk3C1W8jjX3i6A844HFzY4UhEKSDexQyZ1KCWyXIB4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutricionRecetaViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uepDyEw138fLLvR4j1nSz8Zv6ZpeDdsqt8U5FAA3ni4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MGoajLeU5K6blqhVLyarMqjjvhMDAfy2oyHxlka/XdE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionProfileViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1gEuMFam1yICYXgg+rAELGVhsAsY3dFNacPOGv24cNE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/NutritionStrings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wg35a+zNeXJXOEiya5ptYT/DItPOY0Wu+fsBXL+hKL8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/WaitingScreenViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y3Qs5pR6nWaqvOb0LLsIo6h8dOIoZAeiypjurXupdc0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/activity_info.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aBxKgAId/+ghh58HJU3gdWnR3DaU7jAQ2WEdMbVDgnk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/diabetesProfile1.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SHgdRbW1dNmuACwOpp0YVmSqP2NdF2FLFW//T9FHr9g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PLMeQ3WJ0sXlb3DHb8LkfvaxNGbXrmWjXjwOxF6oQeA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/wait_screens.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R4oYopHUUymN+L+6CbTkhZedJ1N+VvBa7ERygdjqHwU=
 			</data>
 			<key>optional</key>
 			<true/>

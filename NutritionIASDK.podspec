@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionIASDK'
-  s.version          = '1.2'
+  s.version          = '1.2.1'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

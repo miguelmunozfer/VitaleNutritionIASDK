@@ -16,6 +16,37 @@ import os
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func draw(_ rect: CoreGraphics.CGRect)
   @objc deinit
 }
+@_hasMissingDesignatedInitializers public class NutritionSDK {
+  public static let sharedInstance: NutritionIASDK.NutritionSDK
+  public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
+  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil)
+  public func setMemberId(_ memberId: Swift.String)
+  public func hasIntermittentFasting() -> Swift.Bool
+  public func getIntermittentFastingPhase() -> Swift.String
+  public func isDoingIntermittentFasting() -> Swift.Bool
+  public func setCountry(_ country: NutritionIASDK.NutritionUserCountry)
+  public func setShortProfile(_ isShortProfile: Swift.Bool)
+  public func setPremiumAlertText(text: Swift.String?, buttonTitle: Swift.String?, action: (() -> Swift.Void)?)
+  public func isPremiumUser(_ isPremium: Swift.Bool)
+  public func preferLargeTitlte(_ preferLarge: Swift.Bool)
+  public func setDietType(diet: NutritionIASDK.DietType)
+  public func startSession(appID: Swift.String, password: Swift.String)
+  public func logout()
+  public func setMainColor(color: Swift.String)
+  public func showNutritionModule()
+  public func showProfile()
+  public func getTodayMenu(_ completion: @escaping ((NutritionIASDK.NutritionDay?) -> ()))
+  public func getAyunoController(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getAyunoPhaseInfo(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getTodayMenu() -> NutritionIASDK.NutritionDay?
+  public func showTodayIntake(_ intakeNumber: Swift.Int)
+  public func getNutritionModule(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getWeekMenu(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getNutritionProfile(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getNumberOfIntakes(_ completion: @escaping ((Swift.Int) -> ()))
+  public func setLanguage(_ language: NutritionIASDK.NutritionLanguage)
+  @objc deinit
+}
 public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable {
   case es
   case en
@@ -84,37 +115,6 @@ extension UIKit.UIFont {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class NutritionSDK {
-  public static let sharedInstance: NutritionIASDK.NutritionSDK
-  public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
-  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int)
-  public func setMemberId(_ memberId: Swift.String)
-  public func hasIntermittentFasting() -> Swift.Bool
-  public func getIntermittentFastingPhase() -> Swift.String
-  public func isDoingIntermittentFasting() -> Swift.Bool
-  public func setCountry(_ country: NutritionIASDK.NutritionUserCountry)
-  public func setShortProfile(_ isShortProfile: Swift.Bool)
-  public func setPremiumAlertText(text: Swift.String?, buttonTitle: Swift.String?, action: (() -> Swift.Void)?)
-  public func isPremiumUser(_ isPremium: Swift.Bool)
-  public func preferLargeTitlte(_ preferLarge: Swift.Bool)
-  public func setDietType(diet: NutritionIASDK.DietType)
-  public func startSession(appID: Swift.String, password: Swift.String)
-  public func logout()
-  public func setMainColor(color: Swift.String)
-  public func showNutritionModule()
-  public func showProfile()
-  public func getTodayMenu(_ completion: @escaping ((NutritionIASDK.NutritionDay?) -> ()))
-  public func getAyunoController(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getAyunoPhaseInfo(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getTodayMenu() -> NutritionIASDK.NutritionDay?
-  public func showTodayIntake(_ intakeNumber: Swift.Int)
-  public func getNutritionModule(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getWeekMenu(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getNutritionProfile(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getNumberOfIntakes(_ completion: @escaping ((Swift.Int) -> ()))
-  public func setLanguage(_ language: NutritionIASDK.NutritionLanguage)
   @objc deinit
 }
 extension NutritionIASDK.NutritionLanguage : Swift.Equatable {}
