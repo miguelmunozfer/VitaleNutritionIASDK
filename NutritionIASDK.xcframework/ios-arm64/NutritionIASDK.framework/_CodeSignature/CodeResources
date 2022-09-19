@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		5wwo8d8Sp2PVC2CPddQULDqbRoI=
+		8zxWoES2tACE4ZPcbATSlI2pjak=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UyY9w9Z1AtMBpNtExdISsKmAIn4=
+		bFlwR+ijv0S7x1vkvFzChyqNrwE=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		uRjg25BK59sxzfLtm3uszBSdem0=
+		YoT0FFbJlzCrXBQfJgj+SMd/6Wg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -189,6 +189,15 @@
 			<key>hash</key>
 			<data>
 			fDLOCZQwrx6sWY82qsQ2tk6DRgQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UA018d8tODtfz9Ied0G1x3lUs2A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -319,6 +328,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c7WWwTVYEU6hvrEuyvPwilb/Hgo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/NutricionRecetaViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -445,6 +463,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLgbqRiiw5/TgJh61nfGXghO2RM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/NutricionRecetaViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -531,6 +558,15 @@
 			<key>hash</key>
 			<data>
 			Gpc2dRC39ORzHyA0Zo3zw79MCk0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLgbqRiiw5/TgJh61nfGXghO2RM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -634,7 +670,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mS4gRgWvrZ70Cu4rRgb+WBGYSMc877t8MZOiRibRTnM=
+			VB4qfRPBygDhbcRLnjdZ5v8EuHTr2d2ggu7YHBusk3Y=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -795,14 +831,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eODeZTGlLv/txZfHZPmDQbsWtby4zW3gMS9JWd8Ul48=
+			aFljo8LGRI8JTsOD1y4yemzThBV/Jz4LTtz31cPvZ6A=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9w9n+xkEumMWi9e5SVG54K/wqj0hevxB/+cM0XOvO9k=
+			/acgGFaGjhZc2fwT84ZJfFJroLL5pakaqiJAy4FgP9E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -940,6 +976,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/NutricionRecetaViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1062,6 +1107,15 @@
 			<key>hash2</key>
 			<data>
 			zRbCf09rwiEUS4SfkB704d2ryo+AIhrWxuFRSG10IEQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dIKUeYBSpIAhc+cgGwXfsM7pjB77Q7JauogEoS1qV2g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1192,6 +1246,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wg35a+zNeXJXOEiya5ptYT/DItPOY0Wu+fsBXL+hKL8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt-PT.lproj/NutricionRecetaViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1278,6 +1341,15 @@
 			<key>hash2</key>
 			<data>
 			ZZk3C1W8jjX3i6A844HFzY4UhEKSDexQyZ1KCWyXIB4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wg35a+zNeXJXOEiya5ptYT/DItPOY0Wu+fsBXL+hKL8=
 			</data>
 			<key>optional</key>
 			<true/>
