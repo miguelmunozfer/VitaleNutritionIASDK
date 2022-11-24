@@ -19,8 +19,11 @@ import os
 @_hasMissingDesignatedInitializers public class NutritionSDK {
   public static let sharedInstance: NutritionIASDK.NutritionSDK
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
-  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false)
+  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
+  public func isProfileFilled() -> Swift.Bool
+  public func setWaitingSecodsForScreen(_ seconds: Swift.Int)
   public func setMemberId(_ memberId: Swift.String)
+  public func setIntermittentFastingEnable(_ isEnable: Swift.Bool)
   public func hasIntermittentFasting() -> Swift.Bool
   public func getIntermittentFastingPhase() -> Swift.String
   public func isDoingIntermittentFasting() -> Swift.Bool

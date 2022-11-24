@@ -1,0 +1,41 @@
+PODS:
+  - Hero (1.6.1)
+  - JWTDecode (2.6.3)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - NutritionIASDK (1.2.3):
+    - Hero (~> 1.6.1)
+    - JWTDecode (~> 2.6)
+    - Localize-Swift (= 3.2.0)
+
+DEPENDENCIES:
+  - NutritionIASDK (from `https://github.com/miguelmunozfer/VitaleNutritionIASDK`)
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - JWTDecode
+    - Localize-Swift
+
+EXTERNAL SOURCES:
+  NutritionIASDK:
+    :git: https://github.com/miguelmunozfer/VitaleNutritionIASDK
+
+CHECKOUT OPTIONS:
+  NutritionIASDK:
+    :commit: d1a2913f5bf609160eb69d1153b3bdb1df80dd20
+    :git: https://github.com/miguelmunozfer/VitaleNutritionIASDK
+
+SPEC CHECKSUMS:
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  JWTDecode: 33e5e26e5ddbd21b2065820894c08fef0cad9509
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  NutritionIASDK: 653dc1842f93e38844ba457e06f9477cb74ad930
+
+PODFILE CHECKSUM: c4f3b1d0abaa55d734a93ce15b37c0f3e44f8076
+
+COCOAPODS: 1.11.3

@@ -1,18 +1,18 @@
 [
-	{
-		"image": "wait_1",
-		"text": "Nuestro sistema está configurando tu dieta personalizada teniendo en cuenta todas las preferencias que has seleccionado."
-	},
-	{
-		"image": "wait_2",
-		"text": "Mientras preparamos tu dieta completa, ya puedes ver tu menú para hoy. Pero antes, un poco de información útil.  "
-	},
-	{
-		"image": "wait_3",
-		"text": "Puedes consultar, para cada plato, las características nutricionales del mismo, sus ingredientes, la receta para elaborarlo y una sugerencia de presentación."
-	},
-	{
-		"image": "wait_4",
-		"text": " Además, si no te apetece alguno de los platos sugeridos, puedes usar el botón superior derecho     y te daremos alternativas equivalentes desde el punto de vista nutricional."
-	}
+    {
+        "image": "wait_1",
+        "text": "O nosso sistema está a configurar a sua dieta personalizada tendo em conta todas as preferências que seleccionou."
+    },
+    {
+        "image": "wait_2",
+        "text": "Enquanto preparamos a sua dieta completa, pode ver o seu menu para hoje. Mas primeiro, um pouco de informação útil."
+    },
+    {
+        "image": "wait_3",
+        "text": "Pode consultar, para cada prato, as características nutricionais do prato, os seus ingredientes, a receita para a sua confecção e uma apresentação sugerida."
+    },
+    {
+        "image": "wait_4",
+        "text": "Além disso, se não desejar nenhum dos pratos sugeridos, pode usar o botão superior direito e nós dar-lhe-emos alternativas nutricionalmente equivalentes."
+    }
 ]
