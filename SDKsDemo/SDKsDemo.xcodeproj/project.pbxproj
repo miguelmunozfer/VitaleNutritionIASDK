@@ -19,6 +19,7 @@
 /* Begin PBXFileReference section */
 		16878756EFA3115B57C38A7E /* Pods-SDKsDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKsDemo.release.xcconfig"; path = "Target Support Files/Pods-SDKsDemo/Pods-SDKsDemo.release.xcconfig"; sourceTree = "<group>"; };
 		F26D05FD6D36FAEBC364D7A6 /* Pods_SDKsDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDKsDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F92EF09829464F170021A937 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		F9A6231D292F612D00A4F185 /* SDKsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SDKsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9A62320292F612D00A4F185 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9A62322292F612D00A4F185 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,7 +57,6 @@
 				FA6C94C4A054D4A0866BD99F /* Pods-SDKsDemo.debug.xcconfig */,
 				16878756EFA3115B57C38A7E /* Pods-SDKsDemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -103,7 +103,7 @@
 				F9A62319292F612D00A4F185 /* Sources */,
 				F9A6231A292F612D00A4F185 /* Frameworks */,
 				F9A6231B292F612D00A4F185 /* Resources */,
-				B6C4A1AC3E30DD0170F520DC /* [CP] Embed Pods Frameworks */,
+				13F6B8ECFDA4056CCA0C3D13 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -161,7 +161,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		B6C4A1AC3E30DD0170F520DC /* [CP] Embed Pods Frameworks */ = {
+		13F6B8ECFDA4056CCA0C3D13 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -220,6 +220,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				F9A62327292F612D00A4F185 /* Base */,
+				F92EF09829464F170021A937 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

@@ -6,7 +6,9 @@ target 'SDKsDemo' do
   use_frameworks!
 
   # Pods for SDKsDemo
-  pod 'NutritionIASDK', :git => 'https://github.com/miguelmunozfer/VitaleNutritionIASDK'
+  pod 'NutritionIASDK', :path => '/Users/mmunozfer/Documents/Documentos - MacBook Pro de Miguel/NutritionIASDKCocoaPods/NutritionIASDK.podspec'
+
+#  pod 'NutritionIASDK', :git => 'https://github.com/miguelmunozfer/VitaleNutritionIASDK'
 end
 
 post_install do |installer|

@@ -19,9 +19,6 @@
   },
   "vendored_frameworks": "NutritionIASDK.xcframework",
   "dependencies": {
-    "Localize-Swift": [
-      "3.2.0"
-    ],
     "Hero": [
       "~> 1.6.1"
     ],

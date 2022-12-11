@@ -16,7 +16,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/miguelmunozfer/VitaleNutritionIASDK.git', :tag => "1.0" }
   s.ios.deployment_target = '11.0'
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
-  s.dependency  'Localize-Swift', '3.2.0'
   s.dependency  'Hero', '~> 1.6.1'
   s.dependency  'JWTDecode', '~> 2.6'
   s.swift_version = "5.0"

@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		EGC7cl/mrZGec2Y+mtY1GL3ZCXE=
+		6zlsLiqjpawpuSmww3TfpZmBAJY=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -32,6 +32,10 @@
 		<data>
 		Bdz0/a6dHWiZMu2/ycjScBP2mF4=
 		</data>
+		<key>Base.lproj/Localizable.strings</key>
+		<data>
+		UA018d8tODtfz9Ied0G1x3lUs2A=
+		</data>
 		<key>Base.lproj/NutricionRecetaViewController.nib</key>
 		<data>
 		ymEhnQtNGY0sc+5bRxaKxa6u8aU=
@@ -39,6 +43,10 @@
 		<key>Base.lproj/NutritionProfileViewController.nib</key>
 		<data>
 		hAjxr3JzKM+lkAHCdJMLQiTUMcY=
+		</data>
+		<key>Base.lproj/NutritionStrings.strings</key>
+		<data>
+		UA018d8tODtfz9Ied0G1x3lUs2A=
 		</data>
 		<key>Base.lproj/WaitingScreenViewController.nib</key>
 		<data>
@@ -106,11 +114,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xWuS1xUThBJHIFbdIet0IYT19yc=
+		6eIC2OZ2LnTya9JdkqlbdGhx33k=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tzS+y+x9PhZRMKp6haEDkur4hB0=
+		LpYbPtQEtNqXaLx/vCsTuB4RH38=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -118,11 +126,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KcrwljT882DgQgTshL7+BcbXEFs=
+		wwp5Vr8vtGtLGynd9JQ3v8yB/gA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TgQnCRrcAnR9Jskn4mqUSbqkDcs=
+		T19wcuUrQtfFqkxKIVexXwU8Ey4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -682,7 +690,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3xqY4syExKSO3rfBSEAMDIUyys94BkqfLdllI+wqNK0=
+			+KOKRB9JuH+QddSyhSHUGuCPpSdyQ7qRBXUZBPErBVU=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -720,6 +728,13 @@
 			kqVUBxbPrzl8guF1WUl/Quqdozpa5fzmmZG8PhXn45g=
 			</data>
 		</dict>
+		<key>Base.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
+			</data>
+		</dict>
 		<key>Base.lproj/NutricionRecetaViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -732,6 +747,13 @@
 			<key>hash2</key>
 			<data>
 			po0O6vtTxR3XYo4lEJ/mLQKFjt1er+4WCQRUv+nfxHU=
+			</data>
+		</dict>
+		<key>Base.lproj/NutritionStrings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
 			</data>
 		</dict>
 		<key>Base.lproj/WaitingScreenViewController.nib</key>
@@ -843,14 +865,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/h/NHKEsEwHD7CWXF0h9OuDETx4NtUhe6mgParqPi+A=
+			yw74zB+xPZsmmQh+afgOF1qzurEmcKOT9wvbNi+JkoU=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCKt+Syt/GdiBJBYAktQ8zYCPxlm1IClP2VyLZaQnUM=
+			gTQRjTrDsRQIWG5Cw89qp7cZ2RL4zm8AuiPM4BCPXYM=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -864,14 +886,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VUhz0zqGFFeBowMDRgwKglwkpYsHhlc2WkBVCrP3kEU=
+			fKflSzOIUkvvPUug1qaxb/fGuZnxoWnb6IHU8mMRVWU=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEuCi95ut/MUlyGRudCO3ZyprS2DyPeNZOR2SRcK558=
+			z75GslCfOibQjOeSa1IIk23T/HBBl5zsN4TenxzTxb4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
