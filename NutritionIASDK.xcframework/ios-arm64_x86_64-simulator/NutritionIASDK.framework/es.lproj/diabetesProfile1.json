@@ -2,140 +2,78 @@
         "page": 0,
         "panels": [
             {
-                "questions": [{
-                        "title": "Eres hombre o mujer",
-                        "type": "picker",
-                        "identifier": "gender",
-                        "placeholder": "Sexo",
-                        "answers": [{
-                                "title": "Hombre",
-                                "score": 0
-                            },
-                            {
-                                "title": "Mujer",
-                                "score": 1
-                            }
-                        ]
-                    },
+                "questions": [
                     {
-                        "title": "Fecha de nacimiento",
-                        "identifier": "dateOfBirth",
-                        "type": "date",
-                        "placeholder": "mm/dd/aaaa"
-                    },
+                    "title": "¿Cúal es tu objetivo?",
+                    "identifier": "desiredBalanceID",
+                    "type": "list",
+                    "isMultipleSelection": false
+                },
                     {
-                        "title": "Cuanto mides",
-                        "identifier": "height",
-                        "type": "number",
-                        "placeholder": "cm"
-                    },
-                    {
-                        "title": "Cuanto pesas",
-                        "identifier": "weight",
-                        "type": "number",
-                        "placeholder": "kg"
-                    }
-                ]
-            },
-            {
-                "questions": [{
-                    "title": "Nivel de actividad física",
+                    "title": "¿Nivel de actividad física?",
                     "identifier": "physicalIntensityID",
                     "type": "list",
                     "info": "activity_info",
                     "isMultipleSelection": false
-                }]
-            }
-        ]
-    },
-    {
-        "page": 1,
-        "panels": [{
-                "questions": [{
-                    "title": "¿Cúal es tu objetivo?",
-                    "identifier": "desiredBalanceID",
-                    "type": "list"
-                }]
+                }
+                    ]
             },
             {
                 "questions": [{
-                    "title": "¿Alguna preferencia nutricional especial?",
-                    "type": "buttons",
+                    "title": "¿Alguna preferencia nutricional?",
+                    "type": "list",
                     "identifier": "preferences",
-                    "isMultipleSelection": true,
-                    "answers": [{
-                            "title": "Si",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "No",
-                            "score": 0
-                        }
-                    ]
+                    "isMultipleSelection": true
                 }]
             },
             {
                 "questions": [{
                     "title": "¿Alguna alergia o intolerancia?",
-                    "type": "buttons",
+                    "type": "list",
                     "identifier": "intollerance",
-                    "isMultipleSelection": true,
-                    "answers": [{
-                            "title": "Si",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "No",
-                            "score": 0
-                        }
-                    ]
+                    "isMultipleSelection": true
                 }]
-            }
-        ]
-    },
-    {
-        "page": 2,
-        "panels": [{
+            },
+            {
                 "questions": [{
-                    "title": "¿Cuántas comidas deseas al día?",
-                    "identifier": "distributionByIntakeID",
-                    "type": "list"
+                    "title": "¿Además de la comida y la cena, que otras comidas quieres?",
+                    "identifier": "selectedIntakes",
+                    "fixed": [3,5],
+                    "type": "list",
+                    "isMultipleSelection": true
+
                 }]
             },
             {
                 "questions": [
                     {
-                        "title": "¿Cuántos platos quieres en la comida?",
+                        "title": "¿Cúantos platos quieres en la comida?",
                         "identifier": "lunchDishes",
                         "isMultipleSelection": true,
                         "type": "list"
                     },
                     {
-                        "title": "¿Cuántos platos quieres en la cena?",
+                        "title": "¿Cúantos platos quieres en la cena?",
                         "identifier": "dinnerDishes",
                         "isMultipleSelection": true,
                         "type": "list"
                     }]
             },
             {
-                "questions": [{
-                    "title": "¿Deseas realizar ayuno intermitente?",
-                    "type": "buttons",
+                "questions": [
+                    {
+                        "title": "¿Dificultad de las recetas?",
+                        "type": "list",
+                        "identifier": "difficulty",
+                        "isMultipleSelection": false
+                    },
+                    {
+                    "title": "¿Qué tipo de ayuno quieres hacer?",
+                    "type": "list",
                     "identifier": "intermittentFastingID",
-                    "isMultipleSelection": false,
-                    "answers": [{
-                            "title": "Si",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "No",
-                            "score": 0
-                        }
-                    ]
-                }]
+                    "isMultipleSelection": false
+                }
+                ]
             }
         ]
     }

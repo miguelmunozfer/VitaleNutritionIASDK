@@ -18,7 +18,11 @@ import os
 @_hasMissingDesignatedInitializers public class NutritionSDK {
   public static let sharedInstance: NutritionIASDK.NutritionSDK
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
-  public func updateProfile(sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
+  public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
+  public func getUserYear() -> Swift.Int?
+  public func getUserGender() -> NutritionIASDK.NutritionGender?
+  public func getUserHeight() -> Swift.Int?
+  public func getUserWeight() -> Swift.Int?
   public func isProfileFilled() -> Swift.Bool
   public func setWaitingSecodsForScreen(_ seconds: Swift.Int)
   public func setMemberId(_ memberId: Swift.String)
@@ -49,6 +53,14 @@ import os
   public func setLanguage(_ language: NutritionIASDK.NutritionLanguage)
   @objc deinit
 }
+public enum NutritionGender : Swift.String, Swift.Codable {
+  case male, female
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable {
   case es
   case en
@@ -73,7 +85,7 @@ public enum DietType : Swift.Int {
   }
 }
 public enum NutritionUserCountry : Swift.Int, Swift.Codable {
-  case spain, portugal, eeuu, uk
+  case spain, portugal, colombia, uk
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -119,6 +131,9 @@ extension UIKit.UIFont {
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
+extension NutritionIASDK.NutritionGender : Swift.Equatable {}
+extension NutritionIASDK.NutritionGender : Swift.Hashable {}
+extension NutritionIASDK.NutritionGender : Swift.RawRepresentable {}
 extension NutritionIASDK.NutritionLanguage : Swift.Equatable {}
 extension NutritionIASDK.NutritionLanguage : Swift.Hashable {}
 extension NutritionIASDK.NutritionLanguage : Swift.RawRepresentable {}

@@ -100,8 +100,10 @@
         "panels": [{
                 "questions": [{
                     "title": "¿Cuántas comidas deseas al día?",
-                    "identifier": "distributionByIntakeID",
-                    "type": "list"
+                    "identifier": "selectedIntakes",
+                    "fixed": [3,5],
+                    "type": "list",
+                    "isMultipleSelection": true
                 }]
             },
             {
