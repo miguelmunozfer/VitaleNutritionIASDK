@@ -3,141 +3,75 @@
         "panels": [
             {
                 "questions": [{
-                        "title": "Eres hombre o mujer",
-                        "type": "picker",
-                        "identifier": "gender",
-                        "placeholder": "Sexo",
-                        "answers": [{
-                                "title": "Hombre",
-                                "score": 0
-                            },
-                            {
-                                "title": "Mujer",
-                                "score": 1
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Fecha de nacimiento",
-                        "identifier": "dateOfBirth",
-                        "type": "date",
-                        "placeholder": "mm/dd/aaaa"
-                    },
-                    {
-                        "title": "Cuanto mides",
-                        "identifier": "height",
-                        "type": "number",
-                        "placeholder": "cm"
-                    },
-                    {
-                        "title": "Cuanto pesas",
-                        "identifier": "weight",
-                        "type": "number",
-                        "placeholder": "kg"
-                    }
-                ]
-            },
-            {
-                "questions": [{
-                    "title": "Nivel de actividad física",
+                    "title": "Your level of Physical Activity?",
                     "identifier": "physicalIntensityID",
                     "type": "list",
                     "info": "activity_info",
                     "isMultipleSelection": false
-                }]
-            }
-        ]
-    },
-    {
-        "page": 1,
-        "panels": [{
-                "questions": [{
-                    "title": "¿Cúal es tu objetivo?",
+                },
+                    {
+                    "title": "What is your goal?",
                     "identifier": "desiredBalanceID",
-                    "type": "list"
+                    "type": "list",
+                    "isMultipleSelection": false
                 }]
             },
             {
                 "questions": [{
-                    "title": "¿Alguna preferencia nutricional especial?",
-                    "type": "buttons",
+                    "title": "Any special nutritional preferences?",
+                    "type": "list",
                     "identifier": "preferences",
-                    "isMultipleSelection": true,
-                    "answers": [{
-                            "title": "Si",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "No",
-                            "score": 0
-                        }
-                    ]
+                    "isMultipleSelection": true
                 }]
             },
             {
                 "questions": [{
-                    "title": "¿Alguna alergia o intolerancia?",
-                    "type": "buttons",
+                    "title": "Any allergy or intolerance?",
+                    "type": "list",
                     "identifier": "intollerance",
                     "isMultipleSelection": true,
-                    "answers": [{
-                            "title": "Si",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "No",
-                            "score": 0
-                        }
-                    ]
                 }]
-            }
-        ]
-    },
-    {
-        "page": 2,
-        "panels": [{
+            },
+            {
                 "questions": [{
-                    "title": "¿Cuántas comidas deseas al día?",
+                    "title": "How many meals do you want per day?",
                     "identifier": "selectedIntakes",
                     "fixed": [3,5],
                     "type": "list",
                     "isMultipleSelection": true
+
                 }]
             },
             {
                 "questions": [
                     {
-                        "title": "¿Cuántos platos quieres en la comida?",
+                        "title": "How many courses do you want in your lunch?",
                         "identifier": "lunchDishes",
                         "isMultipleSelection": true,
                         "type": "list"
                     },
                     {
-                        "title": "¿Cuántos platos quieres en la cena?",
+                        "title": "How many courses do you want in your dinner?",
                         "identifier": "dinnerDishes",
                         "isMultipleSelection": true,
                         "type": "list"
                     }]
             },
             {
-                "questions": [{
-                    "title": "¿Deseas realizar ayuno intermitente?",
-                    "type": "buttons",
+                "questions": [
+                    {
+                        "title": "Difficulty of the recipes?",
+                        "type": "list",
+                        "identifier": "difficulty",
+                        "isMultipleSelection": false,
+                    },
+                    {
+                    "title": "Do you want to do intermittent fasting?",
+                    "type": "list",
                     "identifier": "intermittentFastingID",
                     "isMultipleSelection": false,
-                    "answers": [{
-                            "title": "Sim",
-                            "score": 1,
-                            "hasAnswers": true
-                        },
-                        {
-                            "title": "Não",
-                            "score": 0
-                        }
-                    ]
-                }]
+                }
+                ]
             }
         ]
     }

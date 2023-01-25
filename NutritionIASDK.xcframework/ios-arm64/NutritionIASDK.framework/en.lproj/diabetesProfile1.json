@@ -60,7 +60,7 @@
             {
                 "questions": [
                     {
-                        "title": "¿Dificultad de las recetas?",
+                        "title": "Difficulty of the recipes?",
                         "type": "list",
                         "identifier": "difficulty",
                         "isMultipleSelection": false,

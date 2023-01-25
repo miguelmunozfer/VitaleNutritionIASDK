@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		vC7uRLToKgA5qnETdNVVhXbsOIM=
+		dg7s+gOBvF9B8bXZY2cbEy3/jZ0=
 		</data>
 		<key>AyunoCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Base.lproj/WaitingScreenViewController.nib</key>
 		<data>
-		oUwCVtqmAbrxqM8d1cv+MZsAusE=
+		c/6BFheFkjtDkdr15EG1sy9N6C0=
 		</data>
 		<key>Base.lproj/activity_info.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/diabetesProfile1.json</key>
 		<data>
-		c3UfvnKLFgk7uIaZZV3tSeL3O0A=
+		jy4rNjrodwSzktkZfGsrH15TGY0=
 		</data>
 		<key>Base.lproj/fasesAyuno.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NhTrdA3VDNd7r0ls7POgbhwrylg=
+		4O2H4yT4HOi4MZSAABWtBNUxUtg=
 		</data>
 		<key>IntakeViewController.nib</key>
 		<data>
@@ -257,7 +257,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UA018d8tODtfz9Ied0G1x3lUs2A=
+			wwpaDmla8xuZw8h1/80aCr5VKWg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -266,7 +266,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fEePDWiy4c/J+NXSXfY3ScDowe8=
+			IOGGYUbyXgjJIMYYqeD3P8sg3mY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4kwrVwB/oFA+HjhgVFpX911mNfE=
+			jy4rNjrodwSzktkZfGsrH15TGY0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -401,7 +401,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fEePDWiy4c/J+NXSXfY3ScDowe8=
+			/YjBo+8Y3seC/25MPVKdSr+fDKE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -536,7 +536,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wKr8Cpa3Mu4H0vS1PMliEh0H/wY=
+			XMigW3qqRhngI/BrRMqPPZjERos=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -626,7 +626,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wKr8Cpa3Mu4H0vS1PMliEh0H/wY=
+			XMigW3qqRhngI/BrRMqPPZjERos=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -676,7 +676,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gM5I6TQj7WKeF5HuytpIKPJu/0N4oRywM/0iapPfuso=
+			0HW9OBwyTuj8xRaBLh027Wfiem/B44qwEeRhcfHBSK0=
 			</data>
 		</dict>
 		<key>AyunoCell.nib/objects-12.3+.nib</key>
@@ -767,7 +767,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SzhuwwY66BIKxSylVVjGZsUzflFgg6togVilQSVdNQE=
+			gnpacAUg7fO1Try6hOgvL76Cgr+ixCzCLK7B3V/9ayU=
 			</data>
 		</dict>
 		<key>Base.lproj/activity_info.json</key>
@@ -781,7 +781,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0h9vKJB4UWQ+kxO7MECVVtOc7Tx/Hz/mGMeZ4ZXeses=
+			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
 			</data>
 		</dict>
 		<key>Base.lproj/fasesAyuno.json</key>
@@ -1064,7 +1064,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rT/LoDpyOk2gA8SiU7u5ZuEfFYOjzpNCCJ0GnMrCZxo=
+			qB5dKd1AJPUZpcfCBKLnX2/+AN13lCcJg/WQRqwXYvM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1073,7 +1073,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sWNSzcRdEDOvr/Utp6FSK5u8ijaVeCmlK5TUzygrLno=
+			frQS4eYT+VV+sAAkv+X/h2n5Yz+wD3rQQt36QSf4PKA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1091,7 +1091,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VEZIl9JvZ4S52ZW9BOPRj5JqLoDd4KUF6zP6EgR0C10=
+			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1208,7 +1208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sWNSzcRdEDOvr/Utp6FSK5u8ijaVeCmlK5TUzygrLno=
+			qBsMpCKjnblTXgqGwegInUcwrdcY6JMKJbVz8cEbDFU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1343,7 +1343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y3Qs5pR6nWaqvOb0LLsIo6h8dOIoZAeiypjurXupdc0=
+			pHTWQWvuNfBIzoJzONGhzS1IQcmi3Y/vzCIGYtg4h0E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1433,7 +1433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y3Qs5pR6nWaqvOb0LLsIo6h8dOIoZAeiypjurXupdc0=
+			pHTWQWvuNfBIzoJzONGhzS1IQcmi3Y/vzCIGYtg4h0E=
 			</data>
 			<key>optional</key>
 			<true/>

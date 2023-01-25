@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
   s.source           = { :git => 'https://github.com/miguelmunozfer/VitaleNutritionIASDK.git', :tag => "2.0" }
   s.ios.deployment_target = '11.0'
+  s.resources = "**/**/*.lproj"
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
   s.dependency  'Hero', '~> 1.6.1'
   s.dependency  'JWTDecode', '~> 2.6'
