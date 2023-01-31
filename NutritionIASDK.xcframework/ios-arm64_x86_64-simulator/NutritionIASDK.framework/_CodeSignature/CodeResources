@@ -10,39 +10,39 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dg7s+gOBvF9B8bXZY2cbEy3/jZ0=
-		</data>
-		<key>AyunoCell.nib/objects-12.3+.nib</key>
-		<data>
-		FODdkwb04YNg/O0mFWCehZQ67iw=
-		</data>
-		<key>AyunoCell.nib/runtime.nib</key>
-		<data>
-		gRcCuDLxh56d2bu3vo8AijkJCb0=
-		</data>
-		<key>AyunoInfoCell.nib/objects-12.3+.nib</key>
-		<data>
-		sx1spmN1e+KRNEXPdJ7cwvPJdyE=
-		</data>
-		<key>AyunoInfoCell.nib/runtime.nib</key>
-		<data>
-		iop94qiKjdZHro35k5C4U9LvcHY=
+		KLhb7nIhtgZUz3xePqJocss/yV4=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
 		Lyk2rhtpO3svNSxtRHnyygaF+hY=
 		</data>
-		<key>AyunoTimerSmallView.nib</key>
+		<key>Base.lproj/AyunoCell.nib/objects-12.3+.nib</key>
 		<data>
-		cGJRFb8tmpDgerb6e0zhfDhqzSA=
+		RWqLNm7muOwXHeHPg/zOzd5sHzs=
 		</data>
-		<key>AyunoTimerView.nib</key>
+		<key>Base.lproj/AyunoCell.nib/runtime.nib</key>
 		<data>
-		UYKixFtguwgNS3XMg0ol3fF7XZo=
+		tzT9ALaW+AD0gA48Nxx1glmKAY0=
 		</data>
-		<key>AyunoViewController.nib</key>
+		<key>Base.lproj/AyunoInfoCell.nib/objects-12.3+.nib</key>
 		<data>
-		jcZ1BolcWUS4DVv4r4yRou9ZnPs=
+		gS2Ag4oma3Wn/ofDXNnh0gT5Xao=
+		</data>
+		<key>Base.lproj/AyunoInfoCell.nib/runtime.nib</key>
+		<data>
+		acSeW4jHRLrkncml1OzOC5vxvRY=
+		</data>
+		<key>Base.lproj/AyunoTimerSmallView.nib</key>
+		<data>
+		9rACoO1BuCIKXyHk0BedbOAweAY=
+		</data>
+		<key>Base.lproj/AyunoTimerView.nib</key>
+		<data>
+		BbIgigyN6fTgunglst6njMdRh0g=
+		</data>
+		<key>Base.lproj/AyunoViewController.nib</key>
+		<data>
+		7YP4pUIe+v0GY5uFJNLNg5tvUsU=
 		</data>
 		<key>Base.lproj/IntakePreviewViewController.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/diabetesProfile1.json</key>
 		<data>
-		jy4rNjrodwSzktkZfGsrH15TGY0=
+		f7aupEXRlSTKPI4CYxcU8G/kTFQ=
 		</data>
 		<key>Base.lproj/fasesAyuno.json</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		G5KOJRXK/KiYqhc/2DSjYvrp3Jk=
+		cv4QTCaY7yCNB8M8RsughXYRDlA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DnvwTURDsmjI//s7EqO2rp49Vmg=
+		83J7eMdruI58VipGP31jqOeT0A8=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qlJMb7yXLIFZTMVLXXv30vLLSyw=
+		YipWO2VCN9BPqmitdhA6eHf8Uhs=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5h8gZ9LuaGhIYMlxhATHY4993tc=
+		CMz7kFW6DZy4IHkdiZnQvZPRlLQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -220,6 +220,51 @@
 		<data>
 		36iSENNlB0P8zfh1jTELXaKBv/w=
 		</data>
+		<key>en.lproj/AyunoCell.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0QDpudCwokH6LBw5rvZzm42k834=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoInfoCell.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sp379QRzx0CpgOE14YGPA3fJtg0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3FRoOA8HzEXdqzykBZstbVbfp8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tZi2Rd1owS+FKgwhm3VudZasxIw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o85RfIf/olzJosPIfjTxdmLroYA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -269,7 +314,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGCHzHLjsqxnaBTqC5JuVSIoqfg=
+			vPYg+cXJhRbvxAI+f+Qb85OeqBc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -296,7 +341,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jy4rNjrodwSzktkZfGsrH15TGY0=
+			OSWz+vke6/xRZhKUMnXL/UQ9Jhk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -319,6 +364,24 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/AyunoCell.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ZRdNz9WeY9bGInldOj6c3yva7g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoInfoCell.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XI7ekf6M/M20D9cobeQgZoNOCu0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/AyunoPhaseView.strings</key>
 		<dict>
 			<key>hash</key>
@@ -332,7 +395,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hFDKp+zv0SN2bNtu/iiswS6EG4g=
+			O6RvttWB5QqBWoho5q+TcyU7iaE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -341,7 +404,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VzziWVYFzv408tDDDHbUM2J/h9M=
+			cgJV9VNAnVVPxyR61NcvHcFUxSc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -350,7 +413,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ryKYFknj06ljhkAHQY9pDItQZMg=
+			HwPDllr1qzYHM2ofI1ftlW7pxdY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -431,7 +494,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fR2qZWA8jW9qNKU8iTDMQ0w5nww=
+			5eOJCNMPJjoQbJTGXUS/OqcYON4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -688,35 +751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HW9OBwyTuj8xRaBLh027Wfiem/B44qwEeRhcfHBSK0=
-			</data>
-		</dict>
-		<key>AyunoCell.nib/objects-12.3+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7FEWVKEC6/74QYPzdCOaWOgZ/0NgL/f1Pb32OY5QrQg=
-			</data>
-		</dict>
-		<key>AyunoCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wx+Rv2mxwtXRTw+aNDz+MfzeDTWikhaYGJu7oZ7rV0Y=
-			</data>
-		</dict>
-		<key>AyunoInfoCell.nib/objects-12.3+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ms7mwCtgghEe6ozRYd161WrKpgfriLJhuKMp3QQxdQE=
-			</data>
-		</dict>
-		<key>AyunoInfoCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xP+qAAL0/LgnEC45EPHEg+NjbmSK5xrT5WGFfJhywvE=
+			53tFZDYNIzkGpxiGM7JB73fHopXq+Ezq4CsDorYC+J4=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -726,25 +761,53 @@
 			xEcaXOWZUmiPnNFMa5cjt1I6ZB3FEOPZ+lQD3PFES3I=
 			</data>
 		</dict>
-		<key>AyunoTimerSmallView.nib</key>
+		<key>Base.lproj/AyunoCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			36+FCv9L7/6T1XUZ21fiUsbh17YKK0IkWeqZjbZ/dWU=
+			EsjxRVS0itawllflYcQq3nzO2lZ41uB55vHgGx0Pw6E=
 			</data>
 		</dict>
-		<key>AyunoTimerView.nib</key>
+		<key>Base.lproj/AyunoCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GOUGZ62GeHLGULU3nKVXKRAOE/8II7WWUsF7uq3dmNo=
+			5tc07QFlXe2sBuK3qY9BiDnF3Jjp0ZlqTQWT8Jb77x4=
 			</data>
 		</dict>
-		<key>AyunoViewController.nib</key>
+		<key>Base.lproj/AyunoInfoCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJi76NCz1JWb0I6maCInhFq/X4hSdR+FGC7GFEQjmWU=
+			9tPzhLKqDYleqVAU+NRV2qexnfm3ITiTr4sYNbqkQ/0=
+			</data>
+		</dict>
+		<key>Base.lproj/AyunoInfoCell.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K2ApA34Sn2FTN9i/+rIu8GCWpgo4RBxok1xXefPvfbY=
+			</data>
+		</dict>
+		<key>Base.lproj/AyunoTimerSmallView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ON8e1YOktFuktykV9pkDiP9ADtQtT0+JogZ5FWi4Wmk=
+			</data>
+		</dict>
+		<key>Base.lproj/AyunoTimerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QjRGwxD697CrIoEHhrB//J8EpqN7EyWiYEmaAnBWVZY=
+			</data>
+		</dict>
+		<key>Base.lproj/AyunoViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XsvG1bwWecYP36armoDwJlaiGSueRM1GCJg42OoNjlc=
 			</data>
 		</dict>
 		<key>Base.lproj/IntakePreviewViewController.nib</key>
@@ -793,7 +856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
+			c7lP9RH8LiuOcTTPywekppI1RIQhB2ssWL+4nDEt47I=
 			</data>
 		</dict>
 		<key>Base.lproj/fasesAyuno.json</key>
@@ -884,14 +947,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tYck9Lq+42rKom5am22ISaQ5+1mFi1S39IhBSN9lwE=
+			OjFLQAStHKPuJf9C3y8TE+LjN8aoWfzSYJ8gmBhydMA=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zaiJGoX12r/jYWdiYAUBfoqJWL1VXrB6hCDBO3ecr0s=
+			kdH1haTY2WPdCMvZ3WBVBtbZDTYsx0GgFemro27cIbc=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -905,14 +968,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5XDZtEI0lDvCNOdtpzg9zgXzm6njRksk3K9oygXIrfc=
+			2aERniW9Ppe11E4CPOWs1C505O6n7xGtwJYP+3D6qzM=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aakO11F5DCDX9vgiI1Xhj6B81i2giIWfwGaefOrrayg=
+			r5McIdz6khSlGcLKiI2jfJQRioVzOlMgzd8cE7QMwSA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1048,6 +1111,51 @@
 			KQIucgCsse1zrFvF2oD8XlloXFffVVNDDtN3b14Wua8=
 			</data>
 		</dict>
+		<key>en.lproj/AyunoCell.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wNjjOB02C3Q8maiH/2CPE6Gk1mQ0wZZiXv9fwBZtJoo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoInfoCell.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i765jOXoo899MaXnXtdKrHtlpuO2+suapm/hgkPZ0+E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoTimerSmallView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NEZtZ1pDe9FWzcxwBLarHMJR3/R19Cg3JG0fWChCuLs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoTimerView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jSrVxbN6hHHpqm8vI1RU0bxipNb5uQSbVzCjOO1hHTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/AyunoViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0nUg8sP+KuglSUJl465f9Pe9cnStBtCZS7zX6TVyrqY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/IntakePreviewViewController.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1097,7 +1205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIQz+Uhg0rQknuvaZ9qkYgrmO74cEGl5uIgb8BPZyw4=
+			+pLsnXWHRN0FZOX7CmtmsTEvjcEk+LPmRd5bKEsA+ng=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1124,7 +1232,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
+			d/d8k9IQjH6Q6o8OrFQAEjRJrCHajLoE2zvf+cuAZy8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1147,6 +1255,24 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/AyunoCell.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tf1lTjjwQrVCu2kmUrZ0xJN3YZDIwbL/vwasxVZ5m8I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/AyunoInfoCell.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kF4e9lSb0AHEhSSxJGkT8GCw7gE9MWAzVziXyYPtYBM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/AyunoPhaseView.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1160,7 +1286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZcxEsQe+XNp9UY7OXvzfF1uOO5z+wo7KflDXX2rQJYA=
+			FMNsGXiV31g79x+nz3nTAv1HkVyUhdNlNETSg3dhP9s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1169,7 +1295,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LsdRFbZOayOlAx7jID4IOC90AVil+2gssCqjLUxm9hA=
+			kmdQokUp31KXkfGS9RzWOVrEmX8j38yz6DuTAwGUi5k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1178,7 +1304,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KRm5BrwAG8PpZ8K0ngKA2MGuZSTCvOWoo39CWMe/zpQ=
+			hIRXxbyeZC9qJme26k6JbbMnBl2EuWBWQafm4hgx4ww=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1259,7 +1385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZN29/bWPNdxizL5Js/JHggvNc/cPTFYivHbYxNWXrA=
+			oMKOrd2TeStvhH+xeTy6B+2CU068fEbXtvE2pht7kOY=
 			</data>
 			<key>optional</key>
 			<true/>

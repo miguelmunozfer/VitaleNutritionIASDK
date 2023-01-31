@@ -36,6 +36,14 @@
             },
             {
                 "questions": [{
+                    "title": "¿Algún alimento a excluir?",
+                    "type": "list",
+                    "identifier": "excludedAliment",
+                    "isMultipleSelection": true,
+                }]
+            },
+            {
+                "questions": [{
                     "title": "¿Además de la comida y la cena, que otras comidas quieres?",
                     "identifier": "selectedIntakes",
                     "fixed": [3,5],

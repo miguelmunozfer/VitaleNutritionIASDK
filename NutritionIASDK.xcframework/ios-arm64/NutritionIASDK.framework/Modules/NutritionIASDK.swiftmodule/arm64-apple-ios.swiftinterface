@@ -19,6 +19,7 @@ import os
   public static let sharedInstance: NutritionIASDK.NutritionSDK
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
+  public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func getUserYear() -> Swift.Int?
   public func getUserGender() -> NutritionIASDK.NutritionGender?
   public func getUserHeight() -> Swift.Int?
@@ -39,11 +40,14 @@ import os
   public func startSession(appID: Swift.String, password: Swift.String)
   public func logout()
   public func setMainColor(color: Swift.String)
+  public func setNavigationBarColor(color: Swift.String)
+  public func setNavigationTintColor(color: Swift.String)
   public func showNutritionModule()
   public func showProfile()
   public func getTodayMenu(_ completion: @escaping ((NutritionIASDK.NutritionDay?) -> ()))
   public func getAyunoController(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
   public func getAyunoPhaseInfo(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func setNavigationTitle(title: Swift.String)
   public func getTodayMenu() -> NutritionIASDK.NutritionDay?
   public func showTodayIntake(_ intakeNumber: Swift.Int)
   public func getNutritionModule(_ completion: @escaping ((UIKit.UIViewController?) -> ()))

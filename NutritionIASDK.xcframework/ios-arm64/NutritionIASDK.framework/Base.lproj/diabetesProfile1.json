@@ -34,6 +34,14 @@
             },
             {
                 "questions": [{
+                    "title": "Any excluded aliments?",
+                    "type": "list",
+                    "identifier": "excludedAliment",
+                    "isMultipleSelection": true,
+                }]
+            },
+            {
+                "questions": [{
                     "title": "How many meals do you want per day?",
                     "identifier": "selectedIntakes",
                     "fixed": [3,5],
