@@ -34,14 +34,6 @@
             },
             {
                 "questions": [{
-                    "title": "Any special nutritional preferences?",
-                    "type": "list",
-                    "identifier": "preferences",
-                    "isMultipleSelection": true
-                }]
-            },
-            {
-                "questions": [{
                     "title": "Any excluded aliments?",
                     "type": "list",
                     "identifier": "excludedAliment",
