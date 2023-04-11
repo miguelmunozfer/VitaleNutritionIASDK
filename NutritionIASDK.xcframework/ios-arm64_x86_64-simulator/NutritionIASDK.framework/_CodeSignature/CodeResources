@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		yfhtwuZr0bT55qRP0u8tza//LS0=
+		SXjuPYklkiDR1DOGh2eq8wMGx7U=
 		</data>
 		<key>AyunoPhaseView.nib</key>
 		<data>
@@ -68,13 +68,17 @@
 		<data>
 		oCsySpGR2UMICkU2y7/uNMwxSLg=
 		</data>
-		<key>Base.lproj/diabetesProfile1.json</key>
-		<data>
-		f7aupEXRlSTKPI4CYxcU8G/kTFQ=
-		</data>
 		<key>Base.lproj/fasesAyuno.json</key>
 		<data>
 		tfSuppG/eFVzP6ekk8R7qOTOmaM=
+		</data>
+		<key>Base.lproj/profileWithExcluded.json</key>
+		<data>
+		f7aupEXRlSTKPI4CYxcU8G/kTFQ=
+		</data>
+		<key>Base.lproj/profileWithoutExcluded.json</key>
+		<data>
+		jy4rNjrodwSzktkZfGsrH15TGY0=
 		</data>
 		<key>Base.lproj/wait_screens.json</key>
 		<data>
@@ -83,10 +87,6 @@
 		<key>CustomPageControl.nib</key>
 		<data>
 		QViz81pAm0JDghDFU/k+P06q/r4=
-		</data>
-		<key>DiabetesProfile.json</key>
-		<data>
-		L7nJc/SqT3xSdctf7G61sLMOmtY=
 		</data>
 		<key>DishTableViewCell.nib</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cv4QTCaY7yCNB8M8RsughXYRDlA=
+		7opWQFWQ37qrlqFpKQOkILiK4Eo=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TIlgy87xKOhVLt1cgX/HeetY+hk=
+		epRbsky31ZTXnR4zoS4vHqJTcaA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YipWO2VCN9BPqmitdhA6eHf8Uhs=
+		1ewIsSWTtrekJYLrRAzgUTHGofY=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6OmaGzGj1czqjLBNCEcSxGP4XOU=
+		RGmI9LGf5Da71NnmFUHuqW4Dtt0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -215,10 +215,6 @@
 		<key>RecetaCell.nib/runtime.nib</key>
 		<data>
 		Hf8LkqblEisdKdHgg5Y+K8U0AzE=
-		</data>
-		<key>diabetesProfile1 copy.json</key>
-		<data>
-		36iSENNlB0P8zfh1jTELXaKBv/w=
 		</data>
 		<key>en.lproj/AyunoCell.strings</key>
 		<dict>
@@ -337,7 +333,16 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>en.lproj/diabetesProfile1.json</key>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			78KxYPD9EsHe4TiWgtDy+jplMy4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/profileWithExcluded.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -346,11 +351,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>en.lproj/fasesAyuno.json</key>
+		<key>en.lproj/profileWithoutExcluded.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			78KxYPD9EsHe4TiWgtDy+jplMy4=
+			jy4rNjrodwSzktkZfGsrH15TGY0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -490,7 +495,16 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/diabetesProfile1.json</key>
+		<key>es.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tfSuppG/eFVzP6ekk8R7qOTOmaM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profileWithExcluded.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -499,11 +513,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/fasesAyuno.json</key>
+		<key>es.lproj/profileWithoutExcluded.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tfSuppG/eFVzP6ekk8R7qOTOmaM=
+			fR2qZWA8jW9qNKU8iTDMQ0w5nww=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -751,7 +765,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LJf5a1nMD8BgGJja8Ud1ouWu3JD8TBX+vqUQLRDBRmA=
+			pKphRDHj18OxGmf7+//+lp1B8+Y/3k9A/pP+sLUakko=
 			</data>
 		</dict>
 		<key>AyunoPhaseView.nib</key>
@@ -852,18 +866,25 @@
 			aBxKgAId/+ghh58HJU3gdWnR3DaU7jAQ2WEdMbVDgnk=
 			</data>
 		</dict>
-		<key>Base.lproj/diabetesProfile1.json</key>
+		<key>Base.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6v629gcXLmPtSdFB6ZdmvL8bZ/7Qq7CDDLVNGejG8RM=
+			</data>
+		</dict>
+		<key>Base.lproj/profileWithExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			c7lP9RH8LiuOcTTPywekppI1RIQhB2ssWL+4nDEt47I=
 			</data>
 		</dict>
-		<key>Base.lproj/fasesAyuno.json</key>
+		<key>Base.lproj/profileWithoutExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6v629gcXLmPtSdFB6ZdmvL8bZ/7Qq7CDDLVNGejG8RM=
+			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
 			</data>
 		</dict>
 		<key>Base.lproj/wait_screens.json</key>
@@ -878,13 +899,6 @@
 			<key>hash2</key>
 			<data>
 			jYTLUT6AaYxXZCx/sBPSgr1L6Vsx+OmBLTszBBs6chg=
-			</data>
-		</dict>
-		<key>DiabetesProfile.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+qdd2Ud1XEGOnjJ9IUwvS/EZjDnwc2+hd7WfJOePoSo=
 			</data>
 		</dict>
 		<key>DishTableViewCell.nib</key>
@@ -947,14 +961,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OjFLQAStHKPuJf9C3y8TE+LjN8aoWfzSYJ8gmBhydMA=
+			BN49L+nAX+HrW2rUw6IesjPGotzYFPD1JhIzDrzYFrc=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c9eC1Uqg3gTzUfxWCL4B0/AJI1QkANZKKN3xQQlNPOo=
+			pC0i67JtxNljdkAYwrp5CvSeAp+3ZFSlGL/zHY1vpbI=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -968,14 +982,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2aERniW9Ppe11E4CPOWs1C505O6n7xGtwJYP+3D6qzM=
+			E/Rgxc6yorsaq26jMZXcPJ5VOVNG3imN8JeJjaLMv5I=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lCwZ8IPhxZsDbtvlsqfdE8LJ/I8wSwJy0ezqseYqCyE=
+			xZ5B0d48P7GuKwRrDxq2i31ZEsnnH8PLEdBOBmYgKHk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1104,13 +1118,6 @@
 			nDksPC8rCdOXwQ+gYJakZOQx4U4YkBCafb7CoDR0Eps=
 			</data>
 		</dict>
-		<key>diabetesProfile1 copy.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQIucgCsse1zrFvF2oD8XlloXFffVVNDDtN3b14Wua8=
-			</data>
-		</dict>
 		<key>en.lproj/AyunoCell.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1228,7 +1235,16 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>en.lproj/diabetesProfile1.json</key>
+		<key>en.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fodE8uTwbXsYiBsiWhpO8eA1BGhFVHyRkjhzPDctz4I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/profileWithExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -1237,11 +1253,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>en.lproj/fasesAyuno.json</key>
+		<key>en.lproj/profileWithoutExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fodE8uTwbXsYiBsiWhpO8eA1BGhFVHyRkjhzPDctz4I=
+			rWzoi7jHkuqFKQLxIDf+qyVAK1L6N8J4nXJ58S60vcU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1381,7 +1397,16 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/diabetesProfile1.json</key>
+		<key>es.lproj/fasesAyuno.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6v629gcXLmPtSdFB6ZdmvL8bZ/7Qq7CDDLVNGejG8RM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profileWithExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -1390,11 +1415,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>es.lproj/fasesAyuno.json</key>
+		<key>es.lproj/profileWithoutExcluded.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6v629gcXLmPtSdFB6ZdmvL8bZ/7Qq7CDDLVNGejG8RM=
+			kZN29/bWPNdxizL5Js/JHggvNc/cPTFYivHbYxNWXrA=
 			</data>
 			<key>optional</key>
 			<true/>

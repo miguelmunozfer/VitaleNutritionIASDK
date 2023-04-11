@@ -17,6 +17,10 @@ import os
 }
 @_hasMissingDesignatedInitializers public class NutritionSDK {
   public static let sharedInstance: NutritionIASDK.NutritionSDK
+  public var showExcludedAliments: Swift.Bool {
+    get
+    set
+  }
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
